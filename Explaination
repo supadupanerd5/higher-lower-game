@@ -1,0 +1,10 @@
+Explanation of the Program
+Input: The program asks Bella to enter a number between 1 and 10.
+Processing: The computer randomly generates a secret number between 1 and 10 and compares it with Bella's guess.
+Decision-making: If Bella guesses too low, the program tells her to guess higher. If she guesses too high, it tells her to guess lower.
+Validation: The program checks that Bella enters a number within the allowed range.
+Output: When Bella guesses correctly, the program displays a congratulatory message and ends the game.
+Conclusion
+This pseudocode uses input, output, random number generation, decision-making, and a while loop to create an interactive guessing game. 
+The loop allows Bella to keep guessing until she finds the correct number. 
+This makes the game fun, simple, and easy for a young child to play while introducing important programming concepts such as conditional statements and repetition.
